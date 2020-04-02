@@ -1,0 +1,12 @@
+name: CI
+
+on: push
+
+jobs:
+  java-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: my action
+        uses: giarc3/stunning-adventure@master
