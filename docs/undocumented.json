@@ -1,0 +1,54 @@
+{
+  "warnings": [
+    {
+      "file": "/home/craig/Repos/ironoxide-swift/Sources/IronOxide/IronOxideError.swift",
+      "line": 5,
+      "symbol": "IronOxideError.error(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/home/craig/Repos/ironoxide-swift/Sources/IronOxide/Search.swift",
+      "line": 3,
+      "symbol": "EncryptedBlindIndexSalt",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/home/craig/Repos/ironoxide-swift/Sources/IronOxide/Search.swift",
+      "line": 4,
+      "symbol": "EncryptedBlindIndexSalt.init(encryptedDeks:encryptedSaltBytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/home/craig/Repos/ironoxide-swift/Sources/IronOxide/Search.swift",
+      "line": 12,
+      "symbol": "EncryptedBlindIndexSalt.encryptedDeks",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/home/craig/Repos/ironoxide-swift/Sources/IronOxide/Search.swift",
+      "line": 16,
+      "symbol": "EncryptedBlindIndexSalt.encryptedSaltBytes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/home/craig/Repos/ironoxide-swift/Sources/IronOxide/Search.swift",
+      "line": 23,
+      "symbol": "BlindIndexSearch",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/home/craig/Repos/ironoxide-swift/Sources/IronOxide/Search.swift",
+      "line": 58,
+      "symbol": "SearchOperations",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/home/craig/Repos/ironoxide-swift"
+}
